@@ -1,5 +1,5 @@
 # eweive
-This is Team M's Python Flask project to create an online marketplace site.
+Python Flask project to create an online marketplace site.
 
 To clone repo, use the following in the terminal          
 ```bash
@@ -33,7 +33,9 @@ pip install -r requirements.txt
 5. To run the app, type into the terminal:
 ```bash
 python -m flask run
-```  
+```
+
+By Hong Wei Chen, Siema Alam, Noel Matthew
 
 Note: You may login as a Super User with the folliwng credentials:
 
