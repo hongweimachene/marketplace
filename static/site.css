@@ -1,0 +1,59 @@
+#thebody {
+    margin: 10px;
+}
+.navbar {
+    --bs-navbar-padding-x: 15px;
+}
+
+.searchBar {
+    width: 820px;
+}
+
+.c1 {
+    background-color: #90C9FD;
+    max-width: 100%;
+    color: #031042;
+    padding: 20px 40px 20px 50px;
+    max-height: 400px;
+}
+
+.holiday-images {
+    width: 280px;
+    height: auto;
+}
+
+.holiday-images2 {
+    height: 250px;
+    padding-top: 40px;
+}
+.slogan-items {
+    padding-top: 10px;
+}
+
+.col-3 {
+    height: 100%;
+}
+
+.bidBar {
+    width: 60%;
+}
+
+.itemImage {
+    height: 420px;
+}
+
+.signlogform {
+    padding: 15px 200px 15px 200px;
+}
+
+.itemsInSearch {
+    height: 200px;
+}
+
+.bidsTable {
+    height: 250px;
+    width: 90%;
+    padding-left: 10%;
+    padding-top: 15px;
+    overflow-y: auto;
+}
