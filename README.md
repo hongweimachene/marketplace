@@ -35,11 +35,11 @@ pip install -r requirements.txt
 python -m flask run
 ```
 
-By Hong Wei Chen, Siema Alam, Noel Matthew
-
 Note: You may login as a Super User with the folliwng credentials:
 
 Username: Superuser
 
 Password: superuser1234
+
+By Hong Wei Chen, Siema Alam, Noel Matthew
 
